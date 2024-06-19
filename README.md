@@ -15,11 +15,11 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 DOCUMENTATION:
 1.  Select Your Operating System (OS):
-I use Linux. Debian Distro
+- I use Linux. Debian Distro
 
 2. Install a Text Editor or Integrated Development Environment (IDE):
 
-I installed vscode that I installed using terminal with the command: 
+- I installed vscode that I installed using terminal with the command: 
 
 - sudo apt-get install wget gpg
 - wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
